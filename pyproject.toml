@@ -1,0 +1,9 @@
+[project]
+name = "visupt"
+version = "0.1.0"
+description = "Visualise uptime from Hetrixtools chat messages as a Gantt chart."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib>=3.10.1",
+]
